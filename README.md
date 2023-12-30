@@ -27,13 +27,14 @@
 
 <h3>demos:</h3>
 
-- left: static visualization demo [3]
+- static visualization demo [3]
+- 
+  https://github.com/kumar-selvakumaran/AR_enabled_textbooks/assets/62794224/34e75cad-818e-448f-83a3-4f7e9ce21351
 
-https://github.com/kumar-selvakumaran/AR_enabled_textbooks/assets/62794224/34e75cad-818e-448f-83a3-4f7e9ce21351
+- dynamic visualization demo [4]<br><be>
 
+-  https://github.com/kumar-selvakumaran/AR_enabled_textbooks/assets/62794224/a5c6de31-2be0-47db-a363-5f6d04214239
 
-
-- right: dynamic visualization demo [4]<br><br>
 
 <video width="250" height="540" controls>
   <source src="./" type="video/mp4">
