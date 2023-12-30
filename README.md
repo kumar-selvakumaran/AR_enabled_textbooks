@@ -29,7 +29,8 @@
 
 - left: static visualization demo [3]
 
-https://github.com/kumar-selvakumaran/AR_enabled_textbooks/demos/static_3d_demo.mp4
+https://github.com/kumar-selvakumaran/AR_enabled_textbooks/assets/62794224/34e75cad-818e-448f-83a3-4f7e9ce21351
+
 
 
 - right: dynamic visualization demo [4]<br><br>
