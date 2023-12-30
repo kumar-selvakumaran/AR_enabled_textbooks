@@ -29,10 +29,13 @@
 
 - left: static visualization demo [3]
 
+https://github.com/kumar-selvakumaran/AR_enabled_textbooks/demos/static_3d_demo.mp4
+
+
 - right: dynamic visualization demo [4]<br><br>
 
 <video width="250" height="540" controls>
-  <source src="./demos/static_3d_demo.mp4" type="video/mp4">
+  <source src="./" type="video/mp4">
 </video>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <video width="250" height="540" controls>
   <source src="./demos/dynamic_3d_demo.mp4" type="video/mp4">
