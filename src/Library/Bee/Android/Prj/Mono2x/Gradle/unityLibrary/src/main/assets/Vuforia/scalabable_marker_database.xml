@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="auto_generated4" size="100.000000 100.000000" />
+    <ImageTarget name="auto_generated3" size="100.000000 100.000000" />
+    <ImageTarget name="auto_generated2" size="100.000000 100.000000" />
+    <ImageTarget name="auto_generated1" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>

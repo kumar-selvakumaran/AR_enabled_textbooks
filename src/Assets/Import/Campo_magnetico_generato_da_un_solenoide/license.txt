@@ -1,0 +1,11 @@
+Model Information:
+* title:	Campo magnetico generato da un solenoide
+* source:	https://sketchfab.com/3d-models/campo-magnetico-generato-da-un-solenoide-73aa7df34ee244de9cd1496026f979d4
+* author:	marimato (https://sketchfab.com/marimato)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Campo magnetico generato da un solenoide" (https://sketchfab.com/3d-models/campo-magnetico-generato-da-un-solenoide-73aa7df34ee244de9cd1496026f979d4) by marimato (https://sketchfab.com/marimato) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

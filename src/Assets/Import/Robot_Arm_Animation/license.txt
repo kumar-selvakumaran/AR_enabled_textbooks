@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot Arm Animation
+* source:	https://sketchfab.com/3d-models/robot-arm-animation-64b914c99f0f402e9128384d4266fd55
+* author:	nerdygaytor (https://sketchfab.com/nerdygaytor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot Arm Animation" (https://sketchfab.com/3d-models/robot-arm-animation-64b914c99f0f402e9128384d4266fd55) by nerdygaytor (https://sketchfab.com/nerdygaytor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
