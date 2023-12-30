@@ -1,4 +1,7 @@
 # AR enabled textbooks
+
+<h3> publication: <a href="https://ieeexplore.ieee.org/abstract/document/10193488">[link]</a><h3> 
+
 <h3>Context</h3>
 
 - This is a <a href="https://www.tanscst.tn.gov.in/">TNSCST</a> funded project.
@@ -10,6 +13,7 @@
 - Using open-source technologies, A system is developed with minimal overhead costs to enhance the learning experience of using traditional textbooks using only a smart phone.
 
 - AR visualizations of concepts are integrated into textbooks which can be accessed using a smartphone.
+
 
 <h3>Implementation details</h3>
 
